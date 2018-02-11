@@ -10,7 +10,7 @@ int Y=0;
 int N=0;
 int U=0;
 
-while(1)
+for(int i=0; i<=100; i++;)
 {
 
   cout<<"Welcome!Do you think October 26, 2017 elections will take place?"<<endl;
@@ -65,6 +65,6 @@ cin>>C;
 cout<<endl;
 
 }
-     return 1;
+     return 0;
 
  }
